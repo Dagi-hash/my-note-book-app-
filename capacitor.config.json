@@ -1,7 +1,0 @@
-{
-  "appId": "com.dagi.notebook",
-  "appName": "Notebook",
-  "webDir": "www",
-  "server": { "androidScheme": "https" },
-  "android": { "backgroundColor": "#212842" }
-}
